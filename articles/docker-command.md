@@ -3,7 +3,7 @@ title: Dockerコマンド覚書
 type: tech
 topics: [Docker]
 published: true
-slug: Memorandum of docker-command
+slug: memorandum-of-docker-command
 ---
 
 自分が使ってて出てきたDockerコマンドを列記。
