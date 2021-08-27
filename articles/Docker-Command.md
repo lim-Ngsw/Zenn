@@ -1,7 +1,7 @@
 ---
 title: Dockerコマンド覚書
 type: tech
-topics: [Docker,]
+topics: [Docker]
 published: true
 slug: docker-command
 ---
