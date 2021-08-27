@@ -1,7 +1,7 @@
 ---
 title: Dockerコマンド覚書
 type: tech
-topics: [Docker,]
+topics: [Docker]
 published: true
 slug: docker-command
 ---
@@ -9,7 +9,7 @@ slug: docker-command
 自分が使ってて出てきたDockerコマンドを列記。
 適宜追記や記事にしていったりすると思います。
 
-2021.08.27 Zennへテスト投稿。当記事は[こちら](https://qiita.com/Lyme_sun/items/9c3ad968a704c3268c88)と同一のものになります。
+2021.08.27 Zennへテスト投稿。当記事は[こちら](https://qiita.com/Lyme_sun/items/9c3ad968a704c3268c88)を一部改変したものとなります。
 
 ### Dockerhubにログイン
 ```
