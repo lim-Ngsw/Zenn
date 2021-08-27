@@ -3,7 +3,6 @@ title: Dockerコマンド覚書
 type: tech
 topics: [Docker]
 published: true
-slug: memorandum-of-docker-command
 ---
 
 自分が使ってて出てきたDockerコマンドを列記。
@@ -16,7 +15,7 @@ slug: memorandum-of-docker-command
 docker login
 ```
 
-### <image>をHostへPullしてくる
+### イメージをHostへPullしてくる
 ```
 docker pull <image>
 ```
